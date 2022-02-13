@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Python
+__pycache__/
+.venv/
